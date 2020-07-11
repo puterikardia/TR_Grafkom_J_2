@@ -6,7 +6,8 @@
 #endif
 #include <stdlib.h>
 #include <math.h>
-
+//hyyy
+//672018155
 void init(void);
 void tampil(void);
 void keyboard(unsigned char, int, int);
